@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Senso</string>
+    <string name="focusText">Fidget to Focus</string>
+    <string name="instructionText"><b>Tilt</b> the device\n<b>Press</b> the volume buttons\n<b>Tap</b> the screen\n</string>
+</resources>

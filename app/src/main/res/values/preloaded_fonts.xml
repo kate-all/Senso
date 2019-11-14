@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiko</item>
+        <item>@font/arimo</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/heebo_thin</item>
+        <item>@font/nunito</item>
+        <item>@font/nunito_extralight</item>
+    </array>
+</resources>

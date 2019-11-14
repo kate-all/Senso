@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/focusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/focusText"
+        android:textColor="#C4C4C4"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:visibility="visible"
+        app:fontFamily="@font/amiko"
+        app:layout_constraintBottom_toTopOf="@+id/instructionsText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/mindlessText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:text="For a Mindless Experience"
+        android:textColor="#C4C4C4"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/ball"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="332dp"
+        android:layout_marginRight="332dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/ic_action_name"
+        tools:layout_editor_absoluteY="2dp" />
+
+    <TextView
+        android:id="@+id/sensText"
+        android:layout_width="83dp"
+        android:layout_height="374dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="s\ne\nn\ns\n"
+        android:textColor="#FFFFFF"
+        android:textSize="80dp"
+        android:typeface="monospace"
+        app:fontFamily="@font/arimo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/instructionsText"
+        android:layout_width="216dp"
+        android:layout_height="56dp"
+        android:gravity="center"
+        android:text="@string/instructionText"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/mindlessText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
