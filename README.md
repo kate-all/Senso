@@ -9,4 +9,5 @@ anywhere, even when not looking at your phone! For instance, Senso can be used d
 Download Senso so you can Fidget to Focus!
 
 Devpost: https://devpost.com/software/senso
+
 Play Store: https://play.google.com/store/apps/details?id=com.kateallsebrook.fidgetball&hl=en_US
