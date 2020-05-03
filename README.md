@@ -7,3 +7,5 @@ These actions are combined with unique phone vibrations to create a satisfying s
 anywhere, even when not looking at your phone! For instance, Senso can be used discretely under a table.
 
 Download Senso so you can Fidget to Focus!
+
+Devpost: https://devpost.com/software/senso
