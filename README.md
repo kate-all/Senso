@@ -1,4 +1,7 @@
 # Senso
+
+[![Demo](http://img.youtube.com/vi/2Og2lsXKkH4/0.jpg)](http://www.youtube.com/watch?v=2Og2lsXKkH4 "Demo")
+
 Do you click your pen, scroll mindlessly through social media, or are addicted to simple mobile games? Then look no further than Senso!
 
 Senso is a simple app that turns any Android device into a fidget tool.
